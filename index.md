@@ -18,7 +18,7 @@ With a background in mechanical engineering, I specialize in additive manufactur
 - **[Feb 2022-June 2022]** Research Intern, Vehicles R&D Establishment
 - **[Jul 2021-Aug 2021]** Summer Intern, TEMA India Ltd.
 
-{% include_relative _includes/publications.md %}
+<!--{% include_relative _includes/publications.md %}-->
  {% include_relative _includes/projects.md %} 
 <!--{% include_relative _includes/services.md %} -->
 
